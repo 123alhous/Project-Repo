@@ -18,10 +18,12 @@ Project Description/Outline:
 The early indicators represent a portion of national Covid 19 tests and emergency visits. It is important to see the rates of COVID-19-associated hospitalizations each year
 COVID-NET is a population-based surveillance system. Population-based surveillance is the active collection, analysis, and interpretation of data on a population in a specified geographic area.
 Tracking COVID-19-associated hospitalization rates helps public health professionals understand trends in virus circulation, estimate disease burden, and respond to outbreaks. understand trends in virus circulation, estimate disease burden, and respond to outbreaks.
-
+**
 Project Questions
 COVID-NET collects surveillance data on laboratory-confirmed, COVID-19-associated hospitalizations among children and adults. Data are collected and reported from a network of sites in acute-care hospitals across 98 counties in 13 states.
+
 Calculating Hospitalization Rates
+
 To calculate COVID-19-associated hospitalization rates, COVID-NET collects the following data from identified cases:
 •	Age
 •	Sex
@@ -48,10 +50,13 @@ o	Heading for each question
 o	Short description of findings
 o	Relevant plots
 o	Power Point Presentation
+
 To Fulfill the requirements for this project we as a group team 3 fetched the data by exploring the site from CDC CDC COVID Data Tracker: COVID-NET Hospitalization Surveillance Network.
 We imported the CSV file and for visualization, analysis used Jupyter notebook.
 We as team worked all together by zoom meetings almost everyday and explored very interesting findings about Covid19.
 We have separately attached the observations and analysis file.
+
+
 Here is the Link to Project and Power point presentation
 
 
